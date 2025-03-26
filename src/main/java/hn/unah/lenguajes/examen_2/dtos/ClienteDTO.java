@@ -1,8 +1,5 @@
 package hn.unah.lenguajes.examen_2.dtos;
 
-import java.util.List;
-
-import hn.unah.lenguajes.examen_2.entities.Prestamos;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
